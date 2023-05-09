@@ -14,11 +14,11 @@ For the major project, I will be creating an escape room style game. This game w
 - what enemies the user will face will also be randomized
 ## Nice To Have List:
 - sound effects
+- have images to appear throughout the game
 - have lots of different types of enemies and lots of different way to kill enemies.
 - different background music for different rooms
 - decent descriptions for the user to follow
 - different locations for the user to choose from and not just limited to the hospital setting
 - have a scoring system to appear on the screen and give updates to the user and their current status
-- have different endings
-- have images
+- have different endings 
 - surprising events to happen randomly throughout the game
