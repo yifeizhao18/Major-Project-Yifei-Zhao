@@ -1,6 +1,6 @@
 # Major Project Proposal
 ## Description 
-For the major project, I will be creating an escape room style game. This game will set at a hospital. There will be characters that the user has to fight with. The goal of this game for the user is to escape the hospital. There will be puzzles the user has to solve in order to unlock the doors. They will be able to collect objects during their visit to help them fight the enemies. This will be done individually. The target user will be people who loves escape rooms and text vased adventure games. 
+For the major project, I will be creating an escape room style game. This game will happen at a hospital. There will be characters that the user has to fight with. The goal of this game for the user is to escape the hospital. There will be puzzles the user has to solve in order to unlock the doors. They will be able to collect objects during their visit to help them fight the enemies. This project will be done individually. The target user will be people who loves escape rooms and text based adventure games, and for people who are looking to do an escape room at their own space. There are stay-at-home digital escape rooms, which is similar to this project, for example, for the clue room, they have an Alice In Wonderland digital stay-at-home escape rooms.
 ## Need To Have List:
 - enemies that the user will be fighting with
 - different levels of enemies
@@ -15,7 +15,7 @@ For the major project, I will be creating an escape room style game. This game w
 ## Nice To Have List:
 - sound effects
 - have images to appear throughout the game
-- have lots of different types of enemies and lots of different way to kill enemies.
+- have lots of different types of enemies and lots of different ways to kill enemies.
 - different background music for different rooms
 - decent descriptions for the user to follow
 - different locations for the user to choose from and not just limited to the hospital setting
