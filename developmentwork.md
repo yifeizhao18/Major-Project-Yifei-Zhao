@@ -5,16 +5,14 @@ Give a brief description to the user where they are at and a short introduction.
 
 Welcome them to their first room and give them a brief summary about the room.
 
-If the user got randomized enemy attacking event, they will have to do the event and then choose what their action will be. They have to fight with what they have in their inventories
-  
-    If successful
-		Gain more inventories
-	If unsuccessful
-		If they user already have no inventories
-			It will be become negative and the user don’t get to keep their next inventory even if they want it
-		Else they lose inventories 
-
-Else keep going with the game and give the user the options to choose their action
+    If the user got randomized enemy attacking event, they will have to do the event and then choose what their action will be. They have to fight with what they have in their inventories
+      If successful
+		    Gain more inventories
+	  If unsuccessful
+		  If they user already have no inventories
+			  It will be become negative and the user don’t get to keep their next inventory even if they want it
+		  Else they lose inventories 
+    Else keep going with the game and give the user the options to choose their action
 
 Give the user options on what they can do.
 
